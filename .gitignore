@@ -1,0 +1,8 @@
+*.zip 
+*.dat
+*.pdf
+.metadata
+.recommenders
+.project
+.settings
+.classpath
